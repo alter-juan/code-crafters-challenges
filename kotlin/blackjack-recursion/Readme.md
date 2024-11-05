@@ -10,7 +10,8 @@ Como usuario, quiero participar en un juego interactivo de Blackjack donde pueda
 
 - Objetivo del juego:
   - Conseguir un total de puntos lo más cercano posible a 21 sin pasarse.
-  - Valor de las cartas: Las cartas numeradas (2-10) valen su valor nominal.
+- Valor de las cartas:
+  - Las cartas numeradas (2-10) valen su valor nominal.
   - Las figuras (J, Q, K) valen 10 puntos.
   - El As vale 1 punto o 11 puntos, dependiendo de cuál sea más beneficioso.
 - Cómo se juega:
